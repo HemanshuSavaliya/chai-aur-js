@@ -1,0 +1,5 @@
+const companyName = "hemanshu-and-savaliya"
+const newString = companyName('hemanshu-and-savaliya')
+
+console.log(newString.split('-'));
+

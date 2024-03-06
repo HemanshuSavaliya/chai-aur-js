@@ -1,0 +1,10 @@
+const accountId = 54215421
+var emailpass = "7145963"
+let emailId = "hemanshusavalouya1580@gmail.com"
+
+emailId = "savaliya123@gmail.com"
+accountcity = "suart"
+accountpass ="1245896"
+
+console.log(emailId);
+console.table([emailId,accountcity,accountpass])
